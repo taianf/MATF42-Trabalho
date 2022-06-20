@@ -92,7 +92,7 @@ Após o Docker Desktop instalado, para testar se tudo ocorreu bem abra o termina
 
 ![p11.jpg](imagens/p11.jpg)
 
-Após o finalizar o processo no terminal abra o navegador com o <a href="http://localhost" target="__blank">link</a>, a imagem abaixo deve ser apresentada.
+Após o finalizar o processo no terminal abra o navegador com o <a href="http://localhost" target="_blank">link</a>, a imagem abaixo deve ser apresentada.
 
 ![p12.jpg](imagens/p12.jpg)
 
@@ -113,7 +113,7 @@ Com o conteiner id em mãos execute o comando abaixo para parar a execução do 
 
 ### Configuração do ambiente com o Docker Compose.
 
-Para iniciar precisamos acessar o link no github do projeto, para baixar os arquivos necessarios para a execução do tutorial. <a href="https://github.com/taianf/MATF42-Trabalho" target="__blank">Clique aqui</a> para acessar o repositório.
+Para iniciar precisamos acessar o link no github do projeto, para baixar os arquivos necessarios para a execução do tutorial. <a href="https://github.com/taianf/MATF42-Trabalho" target="_blank">Clique aqui</a> para acessar o repositório.
 
 Caso você tenha o git instalado você pode fazer o download do repositório executando o seguinte comando.
 
